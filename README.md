@@ -15,8 +15,7 @@
 - **Others:** Git, Docker, REST APIs
 
 ### 📊 GitHub Top Langs:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanwaar&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
-
+![Your Name's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zanwaar&show_icons=true&locale=en&layout=compact)
 ### 📊 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&theme=tokyonight)
 
