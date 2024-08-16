@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanwaar&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio]([https://your-portfolio.com](https://www.instagram.com/batukel.dev/))
+- 👨‍💻 All of my projects are available at [portfolio](https://www.instagram.com/batukel.dev/)
 
 - 💬 Ask me about **Laravel, React, Node.js, Java, etc.**
 
