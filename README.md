@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack:
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** Laravel, Node.js, Express.js
+- **Backend:** Laravel, Node.js, Express.js, SpringBoot
 - **Languages:** Java, PHP, JavaScript
 - **Databases:** MySQL, MongoDB
 - **Others:** Git, Docker, REST APIs
