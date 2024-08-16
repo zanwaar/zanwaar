@@ -15,7 +15,7 @@
 - **Others:** Git, Docker, REST APIs
 
 ### 📊 GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanwwar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 
 ### 🌐 Let's Connect:
