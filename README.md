@@ -14,10 +14,9 @@
 - **Databases:** MySQL, MongoDB
 - **Others:** Git, Docker, REST APIs
 
-### 📊 GitHub Top Langs:
-![Your Name's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zanwaar&show_icons=true&locale=en&layout=compact)
-### 📊 GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanwaar&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&locale=en" alt="yourusername" /></p>
 
 
 ### 🌐 Let's Connect:
