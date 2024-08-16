@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Januar Smajid
+## Hi there! 👋 I'm Januar Samjid
 
 ### 🚀 About Me:
 - 💻 Full Stack Developer | Passionate about building scalable web applications.
