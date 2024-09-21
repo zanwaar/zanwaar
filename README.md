@@ -14,7 +14,7 @@
 - **Databases:** MySQL, MongoDB
 - **Others:** Git, Docker, REST APIs
 
-# Github Statistics
+#### 📊 Github Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&locale=en&theme=holi" alt="GitHub Stats" />
