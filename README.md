@@ -22,8 +22,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zanwaar&theme=transparent" alt="GitHub Streak Stats" />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&locale=en" alt="yourusername" /></p>
-
 
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/januar-samjid)
