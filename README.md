@@ -19,7 +19,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&locale=en&theme=holi" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwaar&layout=compact&theme=holi" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zanwaar&theme=transparent" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zanwaar&theme=holi" alt="GitHub Streak Stats" />
 </div>
 
 
