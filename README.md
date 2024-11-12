@@ -1,5 +1,12 @@
 ## Hi there! 👋 I'm Januar Samjid
 
+### 🚀 About Me:
+- 💻 Full Stack Developer | Passionate about building scalable web applications.
+- 🔭 Currently working with **Laravel, React, Node.js, Java , SpringBoot** and more.
+- 🌱 Continuously learning and exploring new technologies.
+- 💬 Let's talk about **web development, system design, or tech in general**.
+- 📫 Reach me at: **zanwaarsamjid@gmail.com**
+
 #### 📊 Github Statistics
 
 <div align="center">
