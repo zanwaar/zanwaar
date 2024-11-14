@@ -16,7 +16,7 @@ Explore more about my work and projects on my [portfolio website](https://januar
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
  
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwaar&layout=compact&langs_count=20&theme=transparent&show_icons=true&count_private=true&hide=jupyter%20notebook,pascal,visual%20basic%20.net,matlab,hack,m,procfile" alt="Top Languages" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwaar&layout=compact&langs_count=20&theme=transparent&show_icons=true&count_private=true&hide=jupyter%20notebook,pascal,kotlin,swift,makefile,objective-c,visual%20basic%20.net,matlab,hack,m,procfile" alt="Top Languages" />
 
 </div>
 
