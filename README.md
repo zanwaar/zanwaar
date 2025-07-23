@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Januar Samjid
-![](https://komarev.com/ghpvc/?username=zanwaar)
+![](https://komarev.com/ghpvc/?username=zannwaar)
 
 ### 🚀 About Me:
 - 💻 **Full Stack Developer** | Passionate about building scalable and efficient web applications.
