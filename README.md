@@ -1,5 +1,4 @@
 ## Hi there! 👋 I'm Januar Samjid
-![](https://komarev.com/ghpvc/?username=zanwaar)
 
 ### 🚀 About Me:
 - 💻 **Full Stack Developer** | Passionate about building scalable and efficient web applications.
@@ -25,5 +24,7 @@ Explore more about my work and projects on my [portfolio website](https://januar
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/januar-samjid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batukel.dev/)
+##
+![](https://komarev.com/ghpvc/?username=zanwaar)
 
 
