@@ -17,6 +17,12 @@ I'm a passionate Full Stack Developer specializing in building scalable, efficie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanwaar&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
+<div align="center">
+<a href="https://wakatime.com/@zanwaar" target="_blank" rel="noreferrer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zanwaar&theme=radical&layout=compact" alt="Wakatime Stats" />
+</a>
+</div>
+
 ---
 
 ### 🌐 Connect With Me
