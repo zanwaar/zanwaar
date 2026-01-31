@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer specializing in building scalable, efficie
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zanwaar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwaar&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,pascal,kotlin,swift,makefile,objective-c,visual%20basic%20.net,matlab,hack,m,procfile"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwaar&layout=compact&langs_count=20&theme=tokyonight&hide=jupyter%20notebook,pascal,kotlin,swift,makefile,objective-c,visual%20basic%20.net,matlab,hack,m,procfile"/>
 </div>
 
 <div align="center">
