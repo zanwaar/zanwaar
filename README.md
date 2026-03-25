@@ -9,13 +9,12 @@ I'm a passionate Full Stack Developer specializing in building scalable, efficie
 
 ### 🌐 Connect With Me
 
-<p align="">
+<p align="center">
   <a href="https://linkedin.com/in/januar-samjid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zanwaar&color=blueviolet&style=flat-square" alt="Profile Views" />
